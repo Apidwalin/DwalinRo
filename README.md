@@ -1,2 +1,1 @@
-# DwalinRo
-https://github.com/Apidwalin/DwalinRo
+https://github.com/rathena/rathena
